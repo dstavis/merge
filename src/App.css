@@ -1,3 +1,17 @@
+#game-container {
+  border: 3px lightgray solid;
+  border-radius:10px;
+  height: 600px;
+  width: 500px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#game-header {
+  color: white;
+}
+
 /* .App {
   text-align: center;
 }
